@@ -1,0 +1,3 @@
+﻿  EXAC-2TO10.c
+D:\c-lang\EXAC-2TO10\EXAC-2TO10\EXAC-2TO10.c(35,41): warning C4244: '함수': 'const size_t'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EXAC-2TO10.vcxproj -> D:\c-lang\EXAC-2TO10\x64\Debug\EXAC-2TO10.exe
