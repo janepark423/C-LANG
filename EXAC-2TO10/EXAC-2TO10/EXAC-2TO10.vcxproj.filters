@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="EXAC-10TO2.c">
+    <ClCompile Include="EXAC-2TO10.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
