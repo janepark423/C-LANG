@@ -1,0 +1,3 @@
+﻿  main.c
+D:\c-lang\ConsoleApplicatio2\ConsoleApplication1\main.c(8,9): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication1.vcxproj -> D:\c-lang\ConsoleApplicatio2\x64\Debug\ConsoleApplication1.exe
