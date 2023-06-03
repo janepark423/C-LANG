@@ -10,7 +10,8 @@ unsigned char to_decimal(const char bi[])
 	for (size_t i = 0; i < bits; ++i)
 	{
 		if (bi[i] == '1')
-			sum += (int)pow(2, bits - 1 - i);  //동일 : sum+= (unsigned char)pow((double)2, (duble)(bits -1 -i));
+			//sum += (int)pow(2, bits - 1 - i);  //동일 : sum+= (unsigned char)pow((double)2, (duble)(bits -1 -i));
+			sum += (unsigned char)pow((double)2, (double)(bits - 1 - i));
 		else if (bi[i] != '0') {
 			printf("Wrong character : %c", bi[i]);
 			exit(1);
